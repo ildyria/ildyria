@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently writing my PhD Thesis on titled: **A Panorama on Classical Cryptography**, *estimated Defence time is 2021*. It focuses on symmetric cryptography (design, cryptanalysis, standardization) and formal methods (verification of Elliptic Curves).
+I am currently writing my PhD Thesis on titled: **A Panorama on Classical Cryptography**, *estimated defence year is 2021*. It focuses on symmetric cryptography (design, cryptanalysis, standardization) and formal methods (verification of Elliptic Curves).
 
 On the side I am the current main developper of the photography gallery Lychee [![Website][website-shield]](https://lycheeorg.github.io). However writing my thesis is currently taking all my time so my contributions to the project are a bit in Neutral gear.
 
