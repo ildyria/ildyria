@@ -4,7 +4,7 @@ I defended my PhD in December 2021, with my thesis **A Panorama on Classical Cry
 
 I am also a competitive [ballroom dancer](https://www.youtube.com/watch?v=r3wTXKBOLJo) and a photographer (see [1](https://phd-photography.viguier.nl/) & [2](https://dance-photography.viguier.nl/)).
 
-On the side I am the current main developer of the photography gallery Lychee [![Website][website-shield]](https://lycheeorg.github.io). However, my daytime job and the dance trainings are currently taking most of my time.
+On the side I am the current main developer of the photography gallery Lychee [![Website][website-shield]](https://lycheeorg.dev). However, my daytime job and the dance trainings are currently taking most of my time.
 
 ![ildyrias's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=ildyria&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true)
 <!-- ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ildyria&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) -->
