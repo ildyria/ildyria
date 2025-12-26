@@ -8,7 +8,6 @@ On the side I am the current main developer of the photography gallery Lychee [!
 
 ![ildyrias's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=ildyria&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true)
 <!-- ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ildyria&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) -->
-![Streak](https://github-streak.viguier.nl?hide_border=true)
 
 <details close>
  <summary> 😇 <b>My Github Stats</b>: </summary>
